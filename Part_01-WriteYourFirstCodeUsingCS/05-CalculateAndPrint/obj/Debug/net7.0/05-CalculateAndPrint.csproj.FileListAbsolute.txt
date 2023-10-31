@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\bin\Debug\net7.0\05-CalculateAndPrint.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\bin\Debug\net7.0\05-CalculateAndPrint.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\bin\Debug\net7.0\05-CalculateAndPrint.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\bin\Debug\net7.0\05-CalculateAndPrint.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\bin\Debug\net7.0\05-CalculateAndPrint.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\refint\05-CalculateAndPrint.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\05-CalculateAndPrint.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\05-CalculateAndPrint\obj\Debug\net7.0\ref\05-CalculateAndPrint.dll

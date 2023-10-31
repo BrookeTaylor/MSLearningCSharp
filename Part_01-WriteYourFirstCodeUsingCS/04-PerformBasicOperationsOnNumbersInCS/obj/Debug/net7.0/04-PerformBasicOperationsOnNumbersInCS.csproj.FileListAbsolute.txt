@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\bin\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\bin\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\bin\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\bin\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\bin\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\refint\04-PerformBasicOperationsOnNumbersInCS.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\04-PerformBasicOperationsOnNumbersInCS.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\04-PerformBasicOperationsOnNumbersInCS\obj\Debug\net7.0\ref\04-PerformBasicOperationsOnNumbersInCS.dll

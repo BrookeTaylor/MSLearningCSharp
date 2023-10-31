@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\bin\Debug\net7.0\03-PerformBasicStringFormattingInCS.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\bin\Debug\net7.0\03-PerformBasicStringFormattingInCS.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\bin\Debug\net7.0\03-PerformBasicStringFormattingInCS.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\bin\Debug\net7.0\03-PerformBasicStringFormattingInCS.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\bin\Debug\net7.0\03-PerformBasicStringFormattingInCS.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\refint\03-PerformBasicStringFormattingInCS.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\03-PerformBasicStringFormattingInCS.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\03-PerformBasicStringFormattingInCS\obj\Debug\net7.0\ref\03-PerformBasicStringFormattingInCS.dll

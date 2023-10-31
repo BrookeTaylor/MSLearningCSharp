@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\bin\Debug\net7.0\06-CalculateFinalGPA.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\bin\Debug\net7.0\06-CalculateFinalGPA.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\bin\Debug\net7.0\06-CalculateFinalGPA.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\bin\Debug\net7.0\06-CalculateFinalGPA.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\bin\Debug\net7.0\06-CalculateFinalGPA.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\refint\06-CalculateFinalGPA.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\06-CalculateFinalGPA.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_01-WriteYourFirstCodeUsingCS\06-CalculateFinalGPA\obj\Debug\net7.0\ref\06-CalculateFinalGPA.dll
