@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\bin\Debug\net7.0\04-StoreAndIterateArraysAndForeach.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\bin\Debug\net7.0\04-StoreAndIterateArraysAndForeach.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\bin\Debug\net7.0\04-StoreAndIterateArraysAndForeach.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\bin\Debug\net7.0\04-StoreAndIterateArraysAndForeach.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\bin\Debug\net7.0\04-StoreAndIterateArraysAndForeach.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\refint\04-StoreAndIterateArraysAndForeach.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\04-StoreAndIterateArraysAndForeach.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\04-StoreAndIterateArraysAndForeach\obj\Debug\net7.0\ref\04-StoreAndIterateArraysAndForeach.dll

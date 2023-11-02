@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\bin\Debug\net7.0\07-ChallengeProject.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\bin\Debug\net7.0\07-ChallengeProject.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\bin\Debug\net7.0\07-ChallengeProject.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\bin\Debug\net7.0\07-ChallengeProject.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\bin\Debug\net7.0\07-ChallengeProject.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\refint\07-ChallengeProject.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\07-ChallengeProject.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_02-CreateAndRunSimpleCSConsoleApplications\07-ChallengeProject\obj\Debug\net7.0\ref\07-ChallengeProject.dll
