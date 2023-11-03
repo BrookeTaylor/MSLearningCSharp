@@ -1,0 +1,14 @@
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\bin\Debug\net7.0\01-EvaluateBooleanExpressions.exe
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\bin\Debug\net7.0\01-EvaluateBooleanExpressions.deps.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\bin\Debug\net7.0\01-EvaluateBooleanExpressions.runtimeconfig.json
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\bin\Debug\net7.0\01-EvaluateBooleanExpressions.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\bin\Debug\net7.0\01-EvaluateBooleanExpressions.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.AssemblyInfoInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.AssemblyInfo.cs
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\refint\01-EvaluateBooleanExpressions.dll
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.pdb
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\01-EvaluateBooleanExpressions.genruntimeconfig.cache
+C:\Users\Brooke\Documents\buwebdev\MSLearningCSharp\Part_03-AddLogicToCSConsoleApplications\01-EvaluateBooleanExpressions\obj\Debug\net7.0\ref\01-EvaluateBooleanExpressions.dll
